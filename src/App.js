@@ -1,11 +1,11 @@
 import React from 'react';
-import UseStateTodoList from './hooksComponents/UseStateTodoList/UseStateTodoList'
+import Contador from './hooksComponents/UseEffectHookComponent/UseEffectHookComponent'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <UseStateTodoList />
+      <Contador mostrar={true}/>
     </div>
   );
 }
