@@ -1,11 +1,11 @@
 import React from 'react';
-import HookSwapi from './hooksComponents/HookSwapi/HookSwapi'
+import Contador from './hooksComponents/UseContextHookComponent/UseContextHookComponenet'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <HookSwapi />
+      <Contador />
     </div>
   );
 }
