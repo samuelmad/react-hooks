@@ -1,5 +1,5 @@
 import React from 'react';
-import Contador from './hooksComponents/CustomHook/UseCustomStateHookComponent'
+import Contador from './hooksComponents/UseReducerHookComponent/UseReducerHookComponent'
 import './App.css';
 
 function App() {
